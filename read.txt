@@ -7,3 +7,5 @@ added few lines
 to test git stash
 command
 
+
+testing REBASE COMMAND
